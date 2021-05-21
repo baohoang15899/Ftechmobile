@@ -1,0 +1,45 @@
+
+export const fruit = [
+    {
+        id:1,
+        name:'Apple',
+        price:'120.000',
+        status:'',
+        img:require('./img/apple.png')
+    },
+    {
+        id:2,
+        name:'Lemon',
+        price:'240.000',
+        status:'best',
+        img:require('./img/lemon.png')
+    },
+    {
+        id:3,
+        name:'Tama',
+        price:'125.000',
+        status:'best',
+        img:require('./img/tama.png')
+    },
+    {
+        id:5,
+        name:'Orange',
+        price:'90.000',
+        status:'best',
+        img:require('./img/orange.png')
+    },
+    {
+        id:6,
+        name:'Strawberry',
+        price:'420.000',
+        status:'best',
+        img:require('./img/stawberry.png')
+    },
+    {
+        id:7,
+        name:'Pineapple',
+        price:'520.000',
+        status:'',
+        img:require('./img/pineapplle.png')
+    },
+]
